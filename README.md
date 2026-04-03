@@ -6,7 +6,7 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 ### Contacto
 <p align="left">
   <a href="https://github.com/nxsh-lol">
-    <img src="assets/Platform=Github.svg" width="300"/>
+    <img src="assets/Github_Card.png" width="419"/>
   </a>
 </p>
 
