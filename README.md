@@ -17,14 +17,8 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 </p>
 
 <p align="left">
-  <a href="https://x.com/NashBacket">
-    <img src="assets/Platform=Twitter.svg" width="300"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="mailto:andrs.perzc@gmail.com">
-    <img src="assets/Platform=Mail.svg" width="300"/>
+  <a href="https://x.com/0nxsh">
+    <img src="assets/X_Card.png" width="419"/>
   </a>
 </p>
 
