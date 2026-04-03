@@ -12,7 +12,7 @@ Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollado
 
 <p align="left">
   <a href="https://www.roblox.com/es/users/74756643/profile">
-    <img src="assets/Platform=Roblox.svg" width="300"/>
+    <img src="assets/Roblox card.png" width="300"/>
   </a>
 </p>
 
