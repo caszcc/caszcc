@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=70&letterSpacing=bold&pause=1000&color=F7F7F7&width=1280&height=100&lines=Bienvenido+a+mi+perfil!)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=70&letterSpacing=bold&pause=1000&color=F7F7F7&width=1280&height=120&lines=Bienvenido+a+mi+perfil!)
 ![](https://i.imgur.com/1wbi0wd.png)
 
 Estudiante de ingeniería a tiempo completo, diseñador freelance y desarrollador en Roblox. He impactado con al menos **1 millón de visitas** en la plataforma (y contando).
