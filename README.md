@@ -1,2 +1,2 @@
 # caszcc
-this profile is outdates so i'll get around to updating it later  >:D
+this profile is outdated so i'll get around to updating it later  >:D
